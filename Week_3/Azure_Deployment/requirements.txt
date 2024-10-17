@@ -1,0 +1,4 @@
+requests
+streamlit
+azure-ai-ml
+azure.identity
